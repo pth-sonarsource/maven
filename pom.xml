@@ -171,9 +171,10 @@ under the License.
     <woodstoxVersion>7.1.1</woodstoxVersion>
     <xmlunitVersion>2.10.3</xmlunitVersion>
     <jacocoArgLine />
-    <sonar.organization>sonarsource</sonar.organization>
-    <!-- <sonar.host.url>https://dev19.sc-dev19.io</sonar.host.url> -->
-    <sonar.host.url>https://sc-staging.io</sonar.host.url>
+    <sonar.organization>the-dna-squad</sonar.organization>
+    <sonar.host.url>https://dev19.sc-dev19.io</sonar.host.url>
+    <!-- <sonar.organization>sonarsource</sonar.organization> -->
+    <!-- <sonar.host.url>https://sc-staging.io</sonar.host.url> -->
   </properties>
 
   <!--bootstrap-start-comment-->
